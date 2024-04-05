@@ -1,4 +1,4 @@
-# greenbone Task
+# Example Flask project
 ## Table of contents
 * [Description](#Description)
 * [Usage](#usage)
